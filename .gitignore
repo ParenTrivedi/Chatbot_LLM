@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+*.log
+.pytest_cache/
+.mypy_cache/
+database/*.db
+database/*.sqlite
+database/*.sqlite3
+database/assistant_memory.json
+
+.idea/
+*.exe
